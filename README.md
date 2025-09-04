@@ -1,2 +1,2 @@
 # Software-Engineering
-A project so make software more sostainable.
+A project to make software more sostainable.
